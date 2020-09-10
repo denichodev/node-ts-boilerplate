@@ -18,7 +18,11 @@
     "email": "denichodev@gmail.com",
     "url": "https://denicho.dev"
   },
-  "license": "ISC",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/denichodev/node-ts-boilerplate"
+  },
   "devDependencies": {
     "@babel/cli": "^7.11.6",
     "@babel/core": "^7.11.6",
